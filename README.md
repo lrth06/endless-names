@@ -4,6 +4,8 @@
 
 This is a random name generator written in javascript. It generates random names based on a list of adverbs and nouns, then tacks on a 4-digit number to the end. This takes the guesswork out of naming your projects, and the amount of possibilities make name collisions much less likely
 
+> Version 0.0.1 - Initial release: 700,009,051,130 possible names
+
 ## Usage
 
 ### cli usage
