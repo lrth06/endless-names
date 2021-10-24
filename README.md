@@ -1,4 +1,4 @@
-# random-names
+# endless-names
 
 ## Description
 
@@ -11,8 +11,8 @@ This is a random name generator written in javascript. It generates random names
 ### cli usage
 
 ```bash
-git clone https://github.com/lrth/random-names.git
-cd random-names
+git clone https://github.com/lrth/endless-names.git
+cd endless-names
 yarn start -v outputs a random name
 ```
 
@@ -30,7 +30,7 @@ Done in 0.10s.
 ### in your project
 
 ```javascript
-import randomNames from 'random-names';
+import randomNames from 'endless-names';
 ...
 const name = randomNames();
 ```
