@@ -1,0 +1,19 @@
+{
+  "name": "random-names",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Random",
+    "Names",
+    "Generator"
+  ],
+  "author": "Toby Hagan",
+  "license": "MIT",
+  "bin": {
+    "random-names": "./bin/random-names"
+  }
+}
