@@ -29,6 +29,10 @@ Done in 0.10s.
 
 ### in your project
 
+```bash
+npm install --save endless-names
+```
+
 ```javascript
 import randomNames from 'endless-names';
 ...
