@@ -13,7 +13,7 @@
   ],
   "repository":{
 	"type":"git",
-	"url":"https://github.com.lrth06/endless-names"
+	"url":"https://github.com/lrth06/endless-names"
   },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/lrth06"
