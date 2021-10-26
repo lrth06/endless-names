@@ -1,6 +1,6 @@
 {
-  "name": "random-names",
-  "version": "0.0.1",
+  "name": "endless-names",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,23 @@
     "Names",
     "Generator"
   ],
+  "repository":{
+	"type":"git",
+	"url":"https://github.com.lrth06/endless-names"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/lrth06"
+  },
   "author": "Toby Hagan",
   "license": "MIT",
   "bin": {
     "random-names": "./bin/random-names"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lrth06/endless-names.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }

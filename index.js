@@ -50,6 +50,6 @@ if(args[0] === '-v'){
         );
 }
 
-module.exports =function generateName(adverb, noun) {
+module.exports =function generateName() {
     return combineWords(adverb, noun);
 }
